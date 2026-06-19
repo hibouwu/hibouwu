@@ -1,7 +1,7 @@
-# Hi, I'm hibouwu
+# Hi, I'm Jianye SHI
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0EA5E9,50:6366F1,100:8B5CF6&text=hibouwu&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=64&desc=Building%20clean,%20useful,%20and%20reliable%20things&descAlign=50&descAlignY=58" alt="hibouwu banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0EA5E9,50:6366F1,100:8B5CF6&text=Jianye%20SHI&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=58&desc=High-performance%20computing%20%7C%20CUDA%20%7C%20Numerical%20methods&descAlign=50&descAlignY=58" alt="Jianye SHI banner" />
 </p>
 
 <p align="center">
@@ -13,33 +13,45 @@
 
 ## About Me
 
-I like turning ideas into practical software: simple interfaces, reliable systems, and maintainable code.
+I'm a developer interested in high-performance computing, numerical simulation, GPU programming, and practical AI projects.
 
-- Currently exploring full-stack development, automation, and AI-assisted workflows
-- Interested in clean product experiences and tools that save people time
-- Prefer shipping small, polished improvements over noisy complexity
-- Open to collaboration on useful open-source projects
+- Working with C, C++, CUDA, Java, Python, and scientific computing tools
+- Building projects around neural networks, numerical solvers, and parallel optimization
+- Interested in clean implementations, measurable performance, and readable engineering notes
+- Open to collaboration on HPC, GPU computing, simulation, and AI-related projects
 
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,java,html,css,tailwind,git,github,docker,vscode&perline=7" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,cmake,linux,docker,git,github,vscode&perline=5" alt="Tech stack icons" />
 </p>
 
 ## What I Build
 
 | Area | Focus |
 | --- | --- |
-| Web Apps | Responsive interfaces, dashboards, workflow tools |
-| Automation | Scripts, integrations, repeatable developer workflows |
-| Backend | APIs, data handling, service reliability |
-| Learning | Notes, experiments, and practical prototypes |
+| GPU Computing | CUDA kernels, operator optimization, performance experiments |
+| Numerical Methods | Poisson/heat equation solvers, BLAS/LAPACK, validation scripts |
+| Simulation | Lattice Boltzmann method, Karman vortex street, parallel solvers |
+| AI Projects | Neural networks from scratch, game AI, course projects |
 
 ## Featured Work
 
 <p align="center">
-  <a href="https://github.com/hibouwu?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hibouwu&repo=hibouwu&theme=tokyonight&hide_border=true&border_radius=12" alt="Featured repository" />
+  <a href="https://github.com/hibouwu/CUDA_optimazation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hibouwu&repo=CUDA_optimazation&theme=tokyonight&hide_border=true&border_radius=12" alt="CUDA optimization repository" />
+  </a>
+  <a href="https://github.com/hibouwu/ppn-mnist-neural-network">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hibouwu&repo=ppn-mnist-neural-network&theme=tokyonight&hide_border=true&border_radius=12" alt="MNIST neural network repository" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/hibouwu/d2q9-lbm-karman">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hibouwu&repo=d2q9-lbm-karman&theme=tokyonight&hide_border=true&border_radius=12" alt="D2Q9 LBM Karman repository" />
+  </a>
+  <a href="https://github.com/hibouwu/cn-poisson-tools">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hibouwu&repo=cn-poisson-tools&theme=tokyonight&hide_border=true&border_radius=12" alt="Poisson tools repository" />
   </a>
 </p>
 
@@ -57,9 +69,9 @@ I like turning ideas into practical software: simple interfaces, reliable system
 ## Now
 
 ```text
-Designing better interfaces
-Writing cleaner code
-Learning one useful thing at a time
+Optimizing CUDA operators
+Studying parallel numerical methods
+Turning algorithms into clear, testable code
 ```
 
 ## Connect
@@ -68,8 +80,8 @@ Learning one useful thing at a time
   <a href="https://github.com/hibouwu">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:hello@example.com">
-    <img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://github.com/hibouwu?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
   </a>
 </p>
 
